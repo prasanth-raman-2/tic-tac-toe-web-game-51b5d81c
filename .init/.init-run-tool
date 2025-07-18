@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && flask run --host <host> --port <port>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/tic-tac-toe-web-game-51b5d81c/backend"
+}
